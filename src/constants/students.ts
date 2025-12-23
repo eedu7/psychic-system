@@ -16,8 +16,15 @@ export const students: Student[] = [
     },
     {
         department: "Software Engineering",
+        name: "Ayyan Shahid",
+        goal: "Strength problem-solving skills and gain hands-on experience in modern software development",
+        rollNumber: "S22BSEEN1M01118",
+        section: "M2",
+    },
+   {
+        department: "Software Engineering",
         name: "Muhammad Sajid",
-        goal: "Strengthen problem-solving skills and gain hands-on experience in modern software development",
+        goal: "Develop industry-ready skills in full-stack development and software architecture",
         rollNumber: "S22BSEEN1M01119",
         section: "M2",
     },
