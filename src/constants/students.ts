@@ -28,4 +28,11 @@ export const students: Student[] = [
         rollNumber: "S22BSEEN1M01119",
         section: "M2",
     },
+    {
+        department: "Software Engineering",
+        name: "Anas Amin",
+        goal: "Enhance my coding skills and contribute to innovative software projects",
+        rollNumber: "S22BSEEN1M01068",
+        section: "M2",
+    },
 ];
